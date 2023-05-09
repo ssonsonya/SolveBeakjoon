@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="Core\MainPage.cpp">
+      <Filter>Core</Filter>
+    </ClCompile>
+    <ClCompile Include="2798_Blackjack\BlackJack.cpp">
+      <Filter>블랙잭</Filter>
+    </ClCompile>
+    <ClCompile Include="2557_HelloWorld\HelloWorld.cpp">
+      <Filter>HelloWorld</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="Core\MainPage.h">
+      <Filter>Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Core\Question.h">
+      <Filter>Core</Filter>
+    </ClInclude>
+    <ClInclude Include="2798_Blackjack\BlackJack.h">
+      <Filter>블랙잭</Filter>
+    </ClInclude>
+    <ClInclude Include="2557_HelloWorld\HelloWorld.h">
+      <Filter>HelloWorld</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="HelloWorld">
+      <UniqueIdentifier>{8539df05-aaae-43d7-9044-e32849944d0e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="블랙잭">
+      <UniqueIdentifier>{933d9ea4-bbdc-4acf-ba04-9f3ac924dea9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core">
+      <UniqueIdentifier>{8268306c-1b0a-42f1-9a54-007f78ed2344}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
