@@ -15,10 +15,10 @@ MainPage::MainPage()
 	cout << "\n ######  #     # ####### #     #  #####    ####  #  ####   #    ##  #    ";
 
 	cout << '\n';
-	InputNumber();
+	SearchNumber();
 }
 
-void MainPage::InputNumber()
+void MainPage::SearchNumber()
 {
 	int input;
 
@@ -48,14 +48,15 @@ void MainPage::CheckNumber(int input)
 		Question* q_2557 = new HelloWorld();
 		q_2557->Solution();
 		SAFE_DELETE(q_2557);
-		InputNumber();
+		SearchNumber();
 		break;
 	}
 	case 2798:
 	{
 		Question* q_2798 = new BlackJack();
+		q_2798->Solution();
 		SAFE_DELETE(q_2798);
-		InputNumber();
+		SearchNumber();
 		break;
 	}
 	default:
@@ -74,5 +75,5 @@ void MainPage::Dictionary()
 	cout << "\n ";
 
 	cout << '\n';
-	InputNumber();
+	SearchNumber();
 }

@@ -26,7 +26,7 @@ void HelloWorld::Solution()
 	printf("\n [ Solution ]\n");
 	printf("\n #include <cstdio>");
 	printf("\n\n int main() {");
-	printf("\n    printf(\"Hello World!를 출력하시오.\");");
+	printf("\n    printf(\"Hello World!\");");
 	printf("\n    return 0;");
 	printf("\n }");
 	printf("\n");

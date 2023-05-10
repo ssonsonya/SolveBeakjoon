@@ -8,7 +8,7 @@ public:
 	MainPage();
 	~MainPage() {}
 	
-	void InputNumber();
+	void SearchNumber();
 	void CheckNumber(int input);
 	void Dictionary();
 
