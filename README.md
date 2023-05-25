@@ -5,4 +5,4 @@
 
 문제풀이 현황
 
-![image](https://github.com/ssonsonya/SolveBeakjoon/assets/116151781/a51248fd-9134-4df5-863d-748b068c741b)
+![image](https://github.com/ssonsonya/ssonsonya.github.io/assets/116151781/8645c90c-5546-4590-8b89-97772f3584d2)
