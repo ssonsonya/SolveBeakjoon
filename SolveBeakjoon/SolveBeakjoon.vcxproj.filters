@@ -12,6 +12,7 @@
     <ClCompile Include="2557_HelloWorld\HelloWorld.cpp">
       <Filter>HelloWorld</Filter>
     </ClCompile>
+    <ClCompile Include="2231_DigitGenerator\DigitGenerator.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h" />
@@ -27,6 +28,7 @@
     <ClInclude Include="2557_HelloWorld\HelloWorld.h">
       <Filter>HelloWorld</Filter>
     </ClInclude>
+    <ClInclude Include="2231_DigitGenerator\DigitGenerator.h" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="HelloWorld">

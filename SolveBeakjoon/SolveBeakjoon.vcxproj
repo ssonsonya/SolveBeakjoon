@@ -142,6 +142,7 @@
     <ClCompile Include="2557_HelloWorld\HelloWorld.cpp" />
     <ClCompile Include="2798_Blackjack\BlackJack.cpp" />
     <ClCompile Include="Core\MainPage.cpp" />
+    <ClCompile Include="2231_DigitGenerator\DigitGenerator.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
@@ -155,6 +156,7 @@
     <ClInclude Include="2798_Blackjack\BlackJack.h" />
     <ClInclude Include="Core\MainPage.h" />
     <ClInclude Include="Core\Question.h" />
+    <ClInclude Include="2231_DigitGenerator\DigitGenerator.h" />
     <ClInclude Include="stdafx.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
